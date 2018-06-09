@@ -1,4 +1,4 @@
-baseurl = "https://tabris2012.github.io/homepage_test/"
+baseurl = "https://tabris2012.github.io/blogdown_test/"
 relativeurls = true
 publishDir = "docs"
 hasCJKLanguage = true
